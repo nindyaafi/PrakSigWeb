@@ -16,7 +16,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Gondokusuman 2"
+      },
       "geometry": {
         "coordinates": [
           110.37100389014557,
@@ -27,7 +29,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Tegalrejo"
+      },
       "geometry": {
         "coordinates": [
           110.3615675757614,
@@ -38,7 +42,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Danurejan II Yogyakarta"
+      },
       "geometry": {
         "coordinates": [
           110.37782400186359,
@@ -49,7 +55,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Gondokusuman 1"
+      },
       "geometry": {
         "coordinates": [
           110.38074405172284,
@@ -60,7 +68,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Danurejan 1"
+      },
       "geometry": {
         "coordinates": [
           110.37520813939756,
@@ -71,7 +81,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Pakualaman"
+      },
       "geometry": {
         "coordinates": [
           110.37195659387805,
@@ -82,7 +94,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Umbulharjo II"
+      },
       "geometry": {
         "coordinates": [
           110.38970593482702,
@@ -93,7 +107,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Gondomanan"
+      },
       "geometry": {
         "coordinates": [
           110.37050629857572,
@@ -104,7 +120,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Mergangsan" 
+      },
       "geometry": {
         "coordinates": [
           110.37531973424569,
@@ -115,7 +133,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Klinik Prima Medika"
+      },
       "geometry": {
         "coordinates": [
           110.37726325590438,
@@ -126,7 +146,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Pembantu Tompeyan"
+      },
       "geometry": {
         "coordinates": [
           110.35490553204266,
@@ -137,7 +159,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Mlati"
+      },
       "geometry": {
         "coordinates": [
           110.36288216244043,
@@ -148,7 +172,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Gamping 2"
+      },
       "geometry": {
         "coordinates": [
           110.33778504322049,
@@ -159,7 +185,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Pembantu Nogotirto"
+      },
       "geometry": {
         "coordinates": [
           110.33513930832441,
@@ -170,7 +198,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Ngampilan"
+      },
       "geometry": {
         "coordinates": [
           110.35584945985744,
@@ -181,7 +211,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Banguntapan 3"
+      },
       "geometry": {
         "coordinates": [
           110.40443782839776,
@@ -192,7 +224,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Kotagede II"
+      },
       "geometry": {
         "coordinates": [
           110.39464491502844,
@@ -203,7 +237,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Puskesmas Umbulharjo I"
+      },
       "geometry": {
         "coordinates": [
           110.39476673969443,
@@ -214,7 +250,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Klinik Gading"
+      },
       "geometry": {
         "coordinates": [
           110.36268664289975,

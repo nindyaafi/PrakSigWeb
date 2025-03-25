@@ -46,14 +46,3 @@ var puskesmasGeoJSON = {
     ]
 };
 
-// Tambahkan GeoJSON layer ke peta
-L.geoJSON(puskesmasGeoJSON, {
-    pointToLayer: function (feature, latlng) {
-        return L.marker(latlng);
-    },
-    onEachFeature: function (feature, layer) {
-        if (feature.properties) {
-            layer.bindPopup("<b>" + feature.properties.name + "</b><br>" + feature.properties.address);
-        }
-    }
-}).addTo(map);

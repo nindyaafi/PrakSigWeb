@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Universitas Muhammadiyah Yogyakarta" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3601, -7.8010],
+            [110.3625, -7.8010],
+            [110.3625, -7.8035],
+            [110.3601, -7.8035],
+            [110.3601, -7.8010]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Universitas Islam Indonesia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3971, -7.7470],
+            [110.3995, -7.7470],
+            [110.3995, -7.7495],
+            [110.3971, -7.7495],
+            [110.3971, -7.7470]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Universitas Atma Jaya Yogyakarta" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.4081, -7.7825],
+            [110.4105, -7.7825],
+            [110.4105, -7.7850],
+            [110.4081, -7.7850],
+            [110.4081, -7.7825]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Universitas Ahmad Dahlan" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.3790, -7.8060],
+            [110.3815, -7.8060],
+            [110.3815, -7.8085],
+            [110.3790, -7.8085],
+            [110.3790, -7.8060]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Universitas Sanata Dharma" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.4090, -7.7715],
+            [110.4115, -7.7715],
+            [110.4115, -7.7740],
+            [110.4090, -7.7740],
+            [110.4090, -7.7715]
+          ]
+        ]
+      }
+    }
+  ]
+}

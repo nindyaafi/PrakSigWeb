@@ -1,13 +1,4 @@
-// Inisialisasi peta
-var map = L.map('map').setView([-7.797068, 110.370529], 12);
 
-// Tambahkan tile layer dari OpenStreetMap
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-}).addTo(map);
-
-// Data GeoJSON (contoh 3 lokasi, tambahkan hingga 20)
-var puskesmasGeoJSON = {
     "type": "FeatureCollection",
     "features": [
         {
@@ -44,5 +35,5 @@ var puskesmasGeoJSON = {
             }
         }
     ]
-};
+
 

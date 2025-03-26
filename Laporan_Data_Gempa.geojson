@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Laporan_Data_Gempa",
+"features": [
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";Sistem Peringatan Dini Tsunami Indonesia (InaTEWS);;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";Lintang;:  -3.4370236216156087 s/d 0.40612461824908563;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";Bujur;:  118.72606372484384 s/d 122.54754415707065;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";Kedalaman;:  1.00 s/d 1000.00;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";Magnitude;:  1.00 s/d 9.50;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";Rentang Waktu;:  27-09-2018 s/d 07-10-2018;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";;;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";;;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": ";;;;", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null },
+{ "type": "Feature", "properties": { ";Badan Meteorologi Klimatologi dan Geofisika (BMKG);;;": "Tanggal (GMT);Lintang (�);Bujur (�);Kedalaman (km);Magnitudo (SR)", "field_2": null, "field_3": null, "field_4": null, "field_5": null }, "geometry": null }
+]
+}
